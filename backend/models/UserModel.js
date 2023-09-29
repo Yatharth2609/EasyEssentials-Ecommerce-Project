@@ -1,6 +1,4 @@
 import mongoose from "mongoose";
-import { Use } from 'react';
-import { Use } from 'react';
 
 const UserSchema = mongoose.Schema({
     name: {
